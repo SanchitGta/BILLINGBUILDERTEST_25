@@ -1,0 +1,1 @@
+story 2 built by run 6 (mock — no LLM)
